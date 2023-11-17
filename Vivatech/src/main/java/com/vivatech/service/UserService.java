@@ -1,5 +1,8 @@
 package com.vivatech.service;
 
+import com.vivatech.dto.UserProfileResponse;
+import com.vivatech.dto.UserRegistrationRequest;
+
 public interface UserService {
 
     /**
